@@ -1,4 +1,7 @@
-const e="Protocols/management.mdx",t="docs",n="protocols/management",s=`import Callout from '@/components/Callout.astro';
+const e="Protocols/management.mdx",t="docs",n="protocols/management",s=`
+<br/><br/>
+
+import Callout from '@/components/Callout.astro';
 import { Quote } from 'lucide-react';
 
 <Callout variant="success" title="What's wrong with this picture? Effectiveness is not enough." icon={Quote}>
@@ -10,9 +13,7 @@ When an animal’s attempts to escape aversive events are blocked they tend to g
 — [*Friedman, S. G. (2018)*](https://www.behaviorworks.org/files/articles/What's%20Wrong%20With%20this%20Picture-General.pdf)
 </Callout>
 
-
-
----
+<br></br>
 
 ## Determining intervention and levels of intrusion
 
