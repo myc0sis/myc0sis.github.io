@@ -1,8 +1,13 @@
-const e="misc/scorpGlossary.mdx",n="docs",o="misc/scorpglossary",t=`
+const e="misc/Scorpion Glossary.mdx",n="docs",o="misc/scorpion-glossary",t=`
+import Callout from '@/components/Callout.astro';
+import { Cat } from 'lucide-react';
 
+<Callout variant="info">
 Here you will find the most used terms and abbreviations you need to know, some of them have been directly adapted from the [r/tarantula FAQ](https://new.reddit.com/r/tarantulas/wiki/index/)
+</Callout>
 
-**Scorpions**: Any of various species of relatively large land arachnid possessing two claws and an elongated tail with a stinger, capable of inflicting an harmless to life threatening sting.
+**Scorpions**: Any of various species of relatively large land arachnid possessing two claws and an elongated tail with a stinger, capable of inflicting a harmless to life threatening sting.
+
 
 # General Terms
 
@@ -133,4 +138,4 @@ Trichobothria – Sensorial hair like structure unique to arachnids and useful f
 Ventral side – underside or belly of the scorpion
 
 Vesicle – The thicker oblong part of the telson, contains the venom gland and muscles
-`,a={title:"Scorpion Glossary",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},s={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/misc/scorpGlossary.mdx",rawData:void 0};export{s as _internal,t as body,n as collection,a as data,e as id,o as slug};
+`,a={title:"Scorpion Glossary",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},s={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/misc/Scorpion Glossary.mdx",rawData:void 0};export{s as _internal,t as body,n as collection,a as data,e as id,o as slug};
