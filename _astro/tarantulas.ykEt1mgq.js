@@ -1,4 +1,6 @@
-const e="Arachnids/tarantulas.mdx",n="docs",a="arachnids/tarantulas",t=`
+const e="Arachnids/tarantulas.mdx",n="docs",a="arachnids/tarantulas",t=`<br/><br/>
+<br/><br/>
+
 import Callout from '@/components/Callout.astro';
 import { Cat } from 'lucide-react';
 
@@ -9,11 +11,15 @@ This wiki article aims to address keeper challenges and offer a clear overview o
  
   - **Key note**: *this document is subject to change periodically, be sure to keep up-to-date.*
 </Callout>
+<br/><br/>
+<br/><br/>
 
 ## <p style="text-align:center;">Tarantulas Overview</p>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
-
-## <p style="text-align:center;">Basic Sling Care</p>
+Basic Sling Care
 
 Spiderling care generally covers the following areas:
 
@@ -47,7 +53,7 @@ Spiderling care generally covers the following areas:
 ---
 
 
-## <p style="text-align:center;">Basic Tarantula Care</p>
+## Basic Tarantula Care
 
 
 ### Enclosure
@@ -82,7 +88,7 @@ Spiderling care generally covers the following areas:
 
 ---
 
-## <p style="text-align:center;">Sexing</p>
+## Sexing
 
 There are two common methods:
 
@@ -94,7 +100,7 @@ There are two common methods:
 
 ---
 
-## <p style="text-align:center;"> Disorders</p>
+## Disorders
 \uFEFF
 
 ### Toxins
