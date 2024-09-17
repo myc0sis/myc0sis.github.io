@@ -1,4 +1,4 @@
-const e="misc/Scorpion Glossary.mdx",n="docs",o="misc/scorpion-glossary",t=`
+const e="misc/scorpion.mdx",n="docs",o="misc/scorpion",t=`
 <br></br>
 
 import Callout from '@/components/Callout.astro';
@@ -142,4 +142,4 @@ Trichobothria – Sensorial hair like structure unique to arachnids and useful f
 Ventral side – underside or belly of the scorpion
 
 Vesicle – The thicker oblong part of the telson, contains the venom gland and muscles
-`,a={title:"Scorpion Glossary",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},s={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/misc/Scorpion Glossary.mdx",rawData:void 0};export{s as _internal,t as body,n as collection,a as data,e as id,o as slug};
+`,a={title:"Scorpion Glossary",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},i={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/misc/scorpion.mdx",rawData:void 0};export{i as _internal,t as body,n as collection,a as data,e as id,o as slug};
