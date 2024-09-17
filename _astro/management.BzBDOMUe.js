@@ -1,7 +1,7 @@
 const e="Protocols/management.mdx",n="docs",t="protocols/management",o=`import Callout from '@/components/Callout.astro';
-import { Cat } from 'lucide-react';
+import { Quote } from 'lucide-react';
 
-<Callout title="Inspirtation" icon="Quote">
+<Callout variant="success" title="Quote" icon={Quote}>
 
 “Effectiveness is one criterion, but effectiveness alone is not enough-
 
