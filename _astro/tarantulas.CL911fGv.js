@@ -15,9 +15,9 @@ This wiki article aims to address keeper challenges and offer a clear overview o
 
 <br/><br/>
 
-## Basic Sling Care
+## Basic Spiderling Care
 
-Spiderling care generally covers the following areas:
+Sling care generally covers the following areas:
 
 - **Enclosure**  
 - **Substrate**  
@@ -27,22 +27,17 @@ Spiderling care generally covers the following areas:
 
 **Fossorial**, **terrestrial**, and **arboreal** tarantulas have different care needs, often minor.
 
-### Feeding
-
-- Feed slings every 3-7 days with maimed or pre-killed prey smaller than the tarantula’s leg span. Prey item's limbs or segments can be used if small prey isn't available.
+**Feeding**: 
+Feed slings every 3-7 days with maimed or pre-killed prey smaller than the tarantula’s leg span. Prey item's limbs or segments can be used if small prey isn't available.
   - **Keynote**: *the quality of care and diet for feeders is crucial to prevent toxin contamination, accumulation, and illness. Always provide fresh, untreated produce, and regularly check for fungal growth, bacterial contamination, or pests in feeder colonies and food sources. Feeding practices may vary based on species, individual needs, and circumstances. Seek a second opinion when needed and stay open to adapting your approach.*
 
-
-### Watering
-
-- Arid species should generally be kept dry but may benefit from a light moisture gradient; moisture-dependent species need a gradient of moisture, with important consideration not to let the habitat dry out.
+**Watering**: 
+Arid species should generally be kept dry but may benefit from a light moisture gradient; moisture-dependent species need a gradient of moisture, with important consideration not to let the habitat dry out.
   - **Keynote**: *"gradient" generally refers to a top-to-bottom moisture level, drier on the surface and more moisture the deeper the individual goes.*
 - Misting in moderation can be appreciated but is generally considered an inadequate form of hydration. Physical water dishes are almost always optimal, with the exception of some species, that do not break surface tension and subsequently become trapped in too-large of water droplets.
  - **Keynote**: *"some species" generally refer to sizes comparative to spiderling of salticids, dwarf tarantulas, or other especially small species. (0.25"/0.6cm) In other cases, smaller water dishes can be crafted out of [ink caps](https://amzn.to/3ZqdLx9) and [legos](https://amzn.to/4gq7Deq).*
 
-### Molting
-
-- Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger.
+**Molting**: Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger.
 - Before molting, the exoskeleton will darken. Remove uneaten food and ensure the enclosure remains humid.
   - **Keynote**: *internal hydration and reserves are the most important factors in molting health.*
 

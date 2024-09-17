@@ -1,4 +1,4 @@
-import{$ as l,c as e}from"./_astro_assets.Bzmb1Z4r.js";import{$ as o}from"./Callout.DR93U3lH.js";import{F as a}from"./utils.DdjKfIrV.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.CsOcve_I.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
+import{$ as l,c as e}from"./_astro_assets.DhIhGWaN.js";import{$ as o}from"./Callout.DA2ysWvt.js";import{F as a}from"./utils.C9zxWGYz.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.DR5J5FwZ.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-spiderling-care",text:"Basic Spiderling Care"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
 `,e("br",{}),`
 `,`
 `,e(o,{variant:"info",children:[e(n.h2,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
@@ -9,8 +9,8 @@ import{$ as l,c as e}from"./_astro_assets.Bzmb1Z4r.js";import{$ as o}from"./Call
 `,e(n.h2,{id:"tarantulas-overview",children:e("p",{style:"text-align:center;",children:"Tarantulas Overview"})}),`
 `,e("br",{}),`
 `,e("br",{}),`
-`,e(n.h2,{id:"basic-sling-care",children:"Basic Sling Care"}),`
-`,e(n.p,{children:"Spiderling care generally covers the following areas:"}),`
+`,e(n.h2,{id:"basic-spiderling-care",children:"Basic Spiderling Care"}),`
+`,e(n.p,{children:"Sling care generally covers the following areas:"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:e(n.strong,{children:"Enclosure"})}),`
 `,e(n.li,{children:e(n.strong,{children:"Substrate"})}),`
@@ -19,27 +19,20 @@ import{$ as l,c as e}from"./_astro_assets.Bzmb1Z4r.js";import{$ as o}from"./Call
 `,e(n.li,{children:e(n.strong,{children:"Moisture needs"})}),`
 `]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Fossorial"}),", ",e(n.strong,{children:"terrestrial"}),", and ",e(n.strong,{children:"arboreal"})," tarantulas have different care needs, often minor."]}),`
-`,e(n.h3,{id:"feeding",children:"Feeding"}),`
-`,e(n.ul,{children:[`
-`,e(n.li,{children:[`Feed slings every 3-7 days with maimed or pre-killed prey smaller than the tarantula’s leg span. Prey item’s limbs or segments can be used if small prey isn’t available.
+`,e(n.p,{children:[e(n.strong,{children:"Feeding"}),`:
+Feed slings every 3-7 days with maimed or pre-killed prey smaller than the tarantula’s leg span. Prey item’s limbs or segments can be used if small prey isn’t available.`]}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"the quality of care and diet for feeders is crucial to prevent toxin contamination, accumulation, and illness. Always provide fresh, untreated produce, and regularly check for fungal growth, bacterial contamination, or pests in feeder colonies and food sources. Feeding practices may vary based on species, individual needs, and circumstances. Seek a second opinion when needed and stay open to adapting your approach."})]}),`
 `]}),`
-`]}),`
-`]}),`
-`,e(n.h3,{id:"watering",children:"Watering"}),`
-`,e(n.ul,{children:[`
-`,e(n.li,{children:[`Arid species should generally be kept dry but may benefit from a light moisture gradient; moisture-dependent species need a gradient of moisture, with important consideration not to let the habitat dry out.
+`,e(n.p,{children:[e(n.strong,{children:"Watering"}),`:
+Arid species should generally be kept dry but may benefit from a light moisture gradient; moisture-dependent species need a gradient of moisture, with important consideration not to let the habitat dry out.`]}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"“gradient” generally refers to a top-to-bottom moisture level, drier on the surface and more moisture the deeper the individual goes."})]}),`
-`]}),`
-`]}),`
 `,e(n.li,{children:"Misting in moderation can be appreciated but is generally considered an inadequate form of hydration. Physical water dishes are almost always optimal, with the exception of some species, that do not break surface tension and subsequently become trapped in too-large of water droplets."}),`
 `,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:["“some species” generally refer to sizes comparative to spiderling of salticids, dwarf tarantulas, or other especially small species. (0.25”/0.6cm) In other cases, smaller water dishes can be crafted out of ",e(n.a,{href:"https://amzn.to/3ZqdLx9",rel:"nofollow",target:"_blank",children:"ink caps"})," and ",e(n.a,{href:"https://amzn.to/4gq7Deq",rel:"nofollow",target:"_blank",children:"legos"}),"."]})]}),`
 `]}),`
-`,e(n.h3,{id:"molting",children:"Molting"}),`
+`,e(n.p,{children:[e(n.strong,{children:"Molting"}),": Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger."]}),`
 `,e(n.ul,{children:[`
-`,e(n.li,{children:"Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger."}),`
 `,e(n.li,{children:[`Before molting, the exoskeleton will darken. Remove uneaten food and ensure the enclosure remains humid.
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"internal hydration and reserves are the most important factors in molting health."})]}),`
