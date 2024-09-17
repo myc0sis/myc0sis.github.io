@@ -1,5 +1,5 @@
 const e="Arachnids/tarantulas.mdx",n="docs",a="arachnids/tarantulas",t=`
-<p style="text-align:center;"> ## Tarantulas Overview</p>
+## <p style="text-align:center;">Tarantulas Overview</p>
 
 
 import Callout from '@/components/Callout.astro';
