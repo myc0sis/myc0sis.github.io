@@ -7,7 +7,7 @@ Effectiveness is one criterion, but effectiveness alone is not enough-
 
 When an animal’s attempts to escape aversive events are blocked they tend to give up trying even when their power to escape is restored. This phenomenon, called learned helplessness, has been replicated with a wide variety of animal species (e.g., dogs, cats, monkeys, cockroaches, children, adult humans).
 
-— *Friedman, S. G. (2018)*
+— [*Friedman, S. G. (2018)*](https://www.behaviorworks.org/files/articles/What's%20Wrong%20With%20this%20Picture-General.pdf)
 </Callout>
 
 
