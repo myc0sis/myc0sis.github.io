@@ -9,7 +9,6 @@ import { Cat } from 'lucide-react';
 This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels. 
  
   - **Key note**: *this document is subject to change periodically, be sure to keep up-to-date.*
-
 </Callout>
 
 
