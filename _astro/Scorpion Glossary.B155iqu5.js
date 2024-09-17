@@ -6,6 +6,7 @@ import { Cat } from 'lucide-react';
 Here you will find the most used terms and abbreviations you need to know, some of them have been directly adapted from the [r/tarantula FAQ](https://new.reddit.com/r/tarantulas/wiki/index/)
 </Callout>
 
+
 **Scorpions**: Any of various species of relatively large land arachnid possessing two claws and an elongated tail with a stinger, capable of inflicting a harmless to life threatening sting.
 
 
