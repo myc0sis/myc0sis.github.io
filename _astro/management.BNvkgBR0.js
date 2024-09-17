@@ -3,9 +3,11 @@ import { Quote } from 'lucide-react';
 
 <Callout variant="success" title="What's wrong with this picture? Effectiveness is not enough." icon={Quote}>
 
-“Effectiveness is one criterion, but effectiveness alone is not enough-
+Effectiveness is one criterion, but effectiveness alone is not enough-
 
-When an animal’s attempts to escape aversive events are blocked they tend to give up trying even when their power to escape is restored. This phenomenon, called learned helplessness, has been replicated with a wide variety of animal species (e.g., dogs, cats, monkeys, cockroaches, children, adult humans)” *Friedman, S. G. (2018)*.
+When an animal’s attempts to escape aversive events are blocked they tend to give up trying even when their power to escape is restored. This phenomenon, called learned helplessness, has been replicated with a wide variety of animal species (e.g., dogs, cats, monkeys, cockroaches, children, adult humans).
+
+— *Friedman, S. G. (2018)*
 </Callout>
 
 
