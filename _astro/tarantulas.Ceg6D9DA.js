@@ -1,9 +1,8 @@
-import{$ as l,c as e}from"./_astro_assets.BSu8up-f.js";import{$ as o}from"./Callout.DfvwoLsU.js";import{F as a}from"./utils.BUSexNOh.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.D4707_vK.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:3,slug:"preface",text:"Preface"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:3,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"handling---overview",text:"Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e(n.h2,{id:"tarantulas-overview",children:e("p",{style:"text-align:center;",children:"Tarantulas Overview"})}),`
-`,`
-`,e(o,{variant:"info",children:[e(n.h3,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
+import{$ as l,c as e}from"./_astro_assets.DME3X3xI.js";import{$ as o}from"./Callout.BqYk7xrd.js";import{F as a}from"./utils.B-sRFHwq.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.BU03EPMo.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:3,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"-disorders",text:" Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e(o,{variant:"info",children:[e(n.h3,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
 `,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"this document is subject to change periodically, be sure to keep up-to-date."})]}),`
 `]})]}),`
-`,e(n.h2,{id:"basic-sling-care",children:"Basic Sling Care"}),`
+`,e(n.h2,{id:"tarantulas-overview",children:e("p",{style:"text-align:center;",children:"Tarantulas Overview"})}),`
+`,e(n.h2,{id:"basic-sling-care",children:e("p",{style:"text-align:center;",children:"Basic Sling Care"})}),`
 `,e(n.p,{children:"Spiderling care generally covers the following areas:"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:e(n.strong,{children:"Enclosure"})}),`
@@ -41,7 +40,7 @@ import{$ as l,c as e}from"./_astro_assets.BSu8up-f.js";import{$ as o}from"./Call
 `]}),`
 `]}),`
 `,e(n.hr,{}),`
-`,e(n.h2,{id:"basic-tarantula-care",children:"Basic Tarantula Care"}),`
+`,e(n.h2,{id:"basic-tarantula-care",children:e("p",{style:"text-align:center;",children:"Basic Tarantula Care"})}),`
 `,e(n.h3,{id:"enclosure",children:"Enclosure"}),`
 `,e(n.p,{children:[e(n.strong,{children:"Terrestrial"}),": Use long, low tanks where floor space matters more than height. The distance between the substrate and the lid shouldn’t exceed the tarantula’s leg span. A 5-gallon aquarium or similarly sized container works well."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Arboreal"}),": Tanks should prioritize height over floor space. Use tanks 2-4x times the tarantula’s leg span."]}),`
@@ -59,7 +58,7 @@ import{$ as l,c as e}from"./_astro_assets.BSu8up-f.js";import{$ as o}from"./Call
 `,e(n.p,{children:[e(n.strong,{children:"Heating"}),": If your home stays around 70°F, no additional heating is required. For temperatures below 65°F, use a low-wattage heat source, such as a ceramic heat emitter or heat mat. Avoid heat rocks, basking bulbs, UV bulbs, or placing heat mats under the tank."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Molting"}),": Tarantulas grow by shedding their exoskeleton. Signs of an impending molt include darkened exoskeleton, refusal to eat, and laying down a web mat. Do not disturb a tarantula during or after molting, as they are very fragile. Wait about 2 weeks before feeding."]}),`
 `,e(n.hr,{}),`
-`,e(n.h3,{id:"sexing",children:"Sexing"}),`
+`,e(n.h2,{id:"sexing",children:e("p",{style:"text-align:center;",children:"Sexing"})}),`
 `,e(n.p,{children:"There are two common methods:"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[`
@@ -73,7 +72,7 @@ import{$ as l,c as e}from"./_astro_assets.BSu8up-f.js";import{$ as o}from"./Call
 `]}),`
 `]}),`
 `,e(n.hr,{}),`
-`,e(n.h2,{id:"disorders",children:"Disorders"}),`
+`,e(n.h2,{id:"-disorders",children:e("p",{style:"text-align:center;",children:" Disorders"})}),`
 `,e(n.p,{children:"\uFEFF"}),`
 `,e(n.h3,{id:"toxins",children:"Toxins"}),`
 `,e(n.ul,{children:[`
@@ -203,7 +202,7 @@ import{$ as l,c as e}from"./_astro_assets.BSu8up-f.js";import{$ as o}from"./Call
 \uFEFF`}),`
 `]}),`
 `,e(n.hr,{}),`
-`,e(n.h2,{id:"handling---overview",children:"Handling - Overview"}),`
+`,e(n.h2,{id:"-handling---overview",children:e("p",{style:"text-align:center;",children:" Handling - Overview"})}),`
 `,e(n.h3,{id:"why-is-handling-not-recommended",children:"Why is handling not recommended"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[`
@@ -235,7 +234,7 @@ import{$ as l,c as e}from"./_astro_assets.BSu8up-f.js";import{$ as o}from"./Call
 `]}),`
 `]}),`
 `,e(n.hr,{}),`
-`,e(n.h2,{id:"reference-materials",children:"Reference Materials"}),`
+`,e(n.h2,{id:"reference-materials",children:e("p",{style:"text-align:center;",children:"Reference Materials"})}),`
 `,e(n.h3,{id:"literature",children:"Literature"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[`
