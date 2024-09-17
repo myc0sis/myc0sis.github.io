@@ -1,4 +1,4 @@
-const e="Guides/tarantulas.mdx",n="docs",a="guides/tarantulas",t=`
+const e="Arachnids/tarantulas.mdx",n="docs",a="arachnids/tarantulas",t=`
 ## Preface
 
 This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels. 
@@ -222,4 +222,4 @@ There are two common methods:
 ---
 
 [Want to see what this resource looked like before? Click here!](https://www.reddit.com/r/tarantulas/wiki/archive/guide-archive/)
-`,i={title:"Tarantula Overview",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},o={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Guides/tarantulas.mdx",rawData:void 0};export{o as _internal,t as body,n as collection,i as data,e as id,a as slug};
+`,i={title:"Tarantula Overview",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},o={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Arachnids/tarantulas.mdx",rawData:void 0};export{o as _internal,t as body,n as collection,i as data,e as id,a as slug};
