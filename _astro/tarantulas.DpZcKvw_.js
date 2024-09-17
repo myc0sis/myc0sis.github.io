@@ -1,4 +1,4 @@
-import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Callout.D-VB_XaR.js";import{F as a}from"./utils.BskLogbe.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.DWFd5Mlg.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
+import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Callout.1cC8OTH3.js";import{F as a}from"./utils.EQznNFnE.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.Dp9hlVER.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
 `,e("br",{}),`
 `,`
 `,e(o,{variant:"info",children:[e(n.h2,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
@@ -7,8 +7,6 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `,e("br",{}),`
 `,e("br",{}),`
 `,e(n.h2,{id:"tarantulas-overview",children:e("p",{style:"text-align:center;",children:"Tarantulas Overview"})}),`
-`,e("br",{}),`
-`,e("br",{}),`
 `,e("br",{}),`
 `,e("br",{}),`
 `,e(n.h2,{id:"basic-sling-care",children:"Basic Sling Care"}),`
@@ -48,6 +46,8 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `]}),`
 `]}),`
 `]}),`
+`,e("br",{}),`
+`,e("br",{}),`
 `,e(n.hr,{}),`
 `,e(n.h2,{id:"basic-tarantula-care",children:"Basic Tarantula Care"}),`
 `,e(n.h3,{id:"enclosure",children:"Enclosure"}),`
@@ -66,6 +66,8 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `,e(n.p,{children:[e(n.strong,{children:"Water"}),": Provide a water dish for all tarantulas, including slings. Avoid cotton, sponges, or water gels, as these harbor bacteria. If the dish is too large, add some aquarium gravel to prevent drowning. Mist can sometimes be appreciated but humidity spiking can come with health risks."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Heating"}),": If your home stays around 70°F, no additional heating is required. For temperatures below 65°F, use a low-wattage heat source, such as a ceramic heat emitter or heat mat. Avoid heat rocks, basking bulbs, UV bulbs, or placing heat mats under the tank."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Molting"}),": Tarantulas grow by shedding their exoskeleton. Signs of an impending molt include darkened exoskeleton, refusal to eat, and laying down a web mat. Do not disturb a tarantula during or after molting, as they are very fragile. Wait about 2 weeks before feeding."]}),`
+`,e("br",{}),`
+`,e("br",{}),`
 `,e(n.hr,{}),`
 `,e(n.h2,{id:"sexing",children:"Sexing"}),`
 `,e(n.p,{children:"There are two common methods:"}),`
@@ -80,6 +82,8 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `,e(n.p,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:["more expansive literature can be found ",e(n.a,{href:"https://www.reddit.com/r/tarantulas/wiki/tarantulas/sexing/",rel:"nofollow",target:"_blank",children:"here"})]})]}),`
 `]}),`
 `]}),`
+`,e("br",{}),`
+`,e("br",{}),`
 `,e(n.hr,{}),`
 `,e(n.h2,{id:"disorders",children:"Disorders"}),`
 `,e(n.p,{children:"\uFEFF"}),`
@@ -210,6 +214,8 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `,e(n.li,{children:`Infected animals’ bites may infect humans.
 \uFEFF`}),`
 `]}),`
+`,e("br",{}),`
+`,e("br",{}),`
 `,e(n.hr,{}),`
 `,e(n.h2,{id:"-handling---overview",children:e("p",{style:"text-align:center;",children:" Handling - Overview"})}),`
 `,e(n.h3,{id:"why-is-handling-not-recommended",children:"Why is handling not recommended"}),`
@@ -242,6 +248,8 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `,e(n.p,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"remember to always wash your hands before and after interactions. Individual and specie specific criteria may encourage PPE protection to be used, such as gloves, long sleeves, or eye protection."})]}),`
 `]}),`
 `]}),`
+`,e("br",{}),`
+`,e("br",{}),`
 `,e(n.hr,{}),`
 `,e(n.h2,{id:"reference-materials",children:e("p",{style:"text-align:center;",children:"Reference Materials"})}),`
 `,e(n.h3,{id:"literature",children:"Literature"}),`
@@ -261,6 +269,4 @@ import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Call
 `,e(n.li,{children:[`
 `,e(n.p,{children:[e(n.a,{href:"https://werunique.us/schultz/roses.html",rel:"nofollow",target:"_blank",children:[" [outdated] ",e(n.strong,{children:"Care and Husbandry of the Chilean Rose Tarantula"})]}),": Once the most common tarantula in the pet trade, this article provides essential care information for new owners."]}),`
 `]}),`
-`]}),`
-`,e(n.hr,{}),`
-`,e(n.p,{children:e(n.a,{href:"https://www.reddit.com/r/tarantulas/wiki/archive/guide-archive/",rel:"nofollow",target:"_blank",children:"Want to see what this resource looked like before? Click here!"})})]})}function d(i={}){const{wrapper:n}=i.components||{};return n?e(n,{...i,children:e(t,{...i})}):t(i)}const w="src/content/docs/Arachnids/tarantulas.mdx",v="/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Arachnids/tarantulas.mdx",r=(i={})=>d({...i,components:{Fragment:a,...i.components,"astro-image":i.components?.img??l}});r[Symbol.for("mdx-component")]=!0;r[Symbol.for("astro.needsHeadRendering")]=!s.layout;r.moduleId="/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Arachnids/tarantulas.mdx";export{r as Content,b as __usesAstroImage,r as default,v as file,s as frontmatter,y as getHeadings,w as url};
+`]})]})}function d(i={}){const{wrapper:n}=i.components||{};return n?e(n,{...i,children:e(t,{...i})}):t(i)}const w="src/content/docs/Arachnids/tarantulas.mdx",v="/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Arachnids/tarantulas.mdx",r=(i={})=>d({...i,components:{Fragment:a,...i.components,"astro-image":i.components?.img??l}});r[Symbol.for("mdx-component")]=!0;r[Symbol.for("astro.needsHeadRendering")]=!s.layout;r.moduleId="/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Arachnids/tarantulas.mdx";export{r as Content,b as __usesAstroImage,r as default,v as file,s as frontmatter,y as getHeadings,w as url};

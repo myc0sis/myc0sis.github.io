@@ -14,7 +14,6 @@ This wiki article aims to address keeper challenges and offer a clear overview o
 ## <p style="text-align:center;">Tarantulas Overview</p>
 
 <br/><br/>
-<br/><br/>
 
 ## Basic Sling Care
 
@@ -46,6 +45,8 @@ Spiderling care generally covers the following areas:
 - Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger.
 - Before molting, the exoskeleton will darken. Remove uneaten food and ensure the enclosure remains humid.
   - **Key note**: *internal hydration and reserves are the most important factors in molting health.*
+
+<br/><br/>
 
 ---
 
@@ -82,6 +83,7 @@ Spiderling care generally covers the following areas:
 
 **Molting**: Tarantulas grow by shedding their exoskeleton. Signs of an impending molt include darkened exoskeleton, refusal to eat, and laying down a web mat. Do not disturb a tarantula during or after molting, as they are very fragile. Wait about 2 weeks before feeding.
 
+<br/><br/>
 
 ---
 
@@ -94,6 +96,8 @@ There are two common methods:
 - **Spermathecae (molt sexing)**: Inspecting the molt for spermathecae, a small flap indicating a female. Males exhibit differences after their ultimate molt, such as leggier bodies and sometimes color changes. Males also develop emboli on their pedipalps and, in many species, tibial hooks. 
 
  - **Key note**: *more expansive literature can be found [here](https://www.reddit.com/r/tarantulas/wiki/tarantulas/sexing/)*
+
+<br/><br/>
 
 ---
 
@@ -184,6 +188,7 @@ There are two common methods:
  - May be zoonotic (related species of nematodes infect humans).
  - Infected animals' bites may infect humans.
 \uFEFF
+<br/><br/>
 
 ---
 
@@ -212,6 +217,8 @@ There are two common methods:
 
  - **Key note**: *remember to always wash your hands before and after interactions. Individual and specie specific criteria may encourage PPE protection to be used, such as gloves, long sleeves, or eye protection.*
 
+<br/><br/>
+
 ---
 
 ## <p style="text-align:center;">Reference Materials</p>
@@ -227,8 +234,4 @@ There are two common methods:
 - [ **Avicularia avicularia Wiki**](https://en.wikipedia.org/wiki/Avicularia_avicularia): A continually updated resource with current husbandry notes to dispel outdated and harmful information that commonly plague new keepers. 
 
 - [ [outdated] **Care and Husbandry of the Chilean Rose Tarantula**](https://werunique.us/schultz/roses.html): Once the most common tarantula in the pet trade, this article provides essential care information for new owners.
-
----
-
-[Want to see what this resource looked like before? Click here!](https://www.reddit.com/r/tarantulas/wiki/archive/guide-archive/)
 `,i={title:"Tarantulas",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},r={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Arachnids/tarantulas.mdx",rawData:void 0};export{r as _internal,t as body,n as collection,i as data,e as id,a as slug};
