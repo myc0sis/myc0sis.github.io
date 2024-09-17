@@ -1,25 +1,22 @@
 const e="Arachnids/tarantulas.mdx",n="docs",a="arachnids/tarantulas",t=`<br/><br/>
-<br/><br/>
-
 import Callout from '@/components/Callout.astro';
 import { Cat } from 'lucide-react';
 
 <Callout variant="info">
-### Preface
+## Preface
 
 This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels. 
  
-  - **Key note**: *this document is subject to change periodically, be sure to keep up-to-date.*
+  - **Keynote**: *this document is subject to change periodically, be sure to keep up-to-date.*
 </Callout>
-<br/><br/>
 <br/><br/>
 
 ## <p style="text-align:center;">Tarantulas Overview</p>
-<br/><br/>
+
 <br/><br/>
 <br/><br/>
 
-Basic Sling Care
+## Basic Sling Care
 
 Spiderling care generally covers the following areas:
 

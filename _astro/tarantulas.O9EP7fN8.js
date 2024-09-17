@@ -1,13 +1,9 @@
-import{$ as l,c as e}from"./_astro_assets.CvWCuagN.js";import{$ as o}from"./Callout.1u4FmwzN.js";import{F as a}from"./utils.C1saSL4o.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.oM3M2x4f.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:3,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
-`,e("br",{}),`
-`,e("br",{}),`
+import{$ as l,c as e}from"./_astro_assets.BIzvmd0C.js";import{$ as o}from"./Callout.D-VB_XaR.js";import{F as a}from"./utils.BskLogbe.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.DWFd5Mlg.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
 `,e("br",{}),`
 `,`
-`,e(o,{variant:"info",children:[e(n.h3,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"this document is subject to change periodically, be sure to keep up-to-date."})]}),`
+`,e(o,{variant:"info",children:[e(n.h2,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"this document is subject to change periodically, be sure to keep up-to-date."})]}),`
 `]})]}),`
-`,e("br",{}),`
-`,e("br",{}),`
 `,e("br",{}),`
 `,e("br",{}),`
 `,e(n.h2,{id:"tarantulas-overview",children:e("p",{style:"text-align:center;",children:"Tarantulas Overview"})}),`
@@ -15,9 +11,7 @@ import{$ as l,c as e}from"./_astro_assets.CvWCuagN.js";import{$ as o}from"./Call
 `,e("br",{}),`
 `,e("br",{}),`
 `,e("br",{}),`
-`,e("br",{}),`
-`,e("br",{}),`
-`,e(n.p,{children:"Basic Sling Care"}),`
+`,e(n.h2,{id:"basic-sling-care",children:"Basic Sling Care"}),`
 `,e(n.p,{children:"Spiderling care generally covers the following areas:"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:e(n.strong,{children:"Enclosure"})}),`
