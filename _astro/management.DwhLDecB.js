@@ -1,5 +1,5 @@
 const e="Protocols/management.mdx",n="docs",t="protocols/management",o=`import Callout from '@/components/Callout.astro';
-import { Quote } from 'lucide-react';
+import { Cat } from 'lucide-react';
 
 <Callout title="Inspirtation" icon="Quote">
 
