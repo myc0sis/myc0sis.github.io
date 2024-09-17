@@ -12,7 +12,6 @@ This wiki article aims to address keeper challenges and offer a clear overview o
 
 </Callout>
 
----
 
 ## Basic Sling Care
 
