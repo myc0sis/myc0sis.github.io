@@ -1,0 +1,3 @@
+const t="test-page.mdx",e="docs",o="test-page",a=`import Callout from "@/components/Callout.astro";\r
+\r
+<iframe src="https://discord.com/widget?id=306336628459438083&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>`,s={title:"Discord",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!0,hide_toc:!1,hide_sidenav:!1,max_width:!1},r={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/test-page.mdx",rawData:void 0};export{r as _internal,a as body,e as collection,s as data,t as id,o as slug};
