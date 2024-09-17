@@ -17,4 +17,4 @@ When an animal’s attempts to escape aversive events are blocked they tend to g
 - If the choice is between a less intrusive but ineffective procedure and a more aversive but effective procedure, the effective procedure should be selected.
 
 - Before employing a more intrusive procedure, data should be collected to substantiate the ineffectiveness of the less intrusive approach.
-`,o={title:"Procedural Hierarchy of Intrusiveness",author:"no",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!0,hide_sidenav:!0,max_width:!1},i={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Protocols/management.mdx",rawData:void 0};export{i as _internal,s as body,n as collection,o as data,e as id,t as slug};
+`,o={title:"Procedural Hierarchy of Intrusiveness",author:"no",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!0,max_width:!1},i={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/Protocols/management.mdx",rawData:void 0};export{i as _internal,s as body,n as collection,o as data,e as id,t as slug};
