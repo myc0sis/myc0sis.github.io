@@ -30,21 +30,21 @@ Spiderling care generally covers the following areas:
 ### Feeding
 
 - Feed slings every 3-7 days with maimed or pre-killed prey smaller than the tarantula’s leg span. Prey item's limbs or segments can be used if small prey isn't available.
-  - **Key note**: *the quality of care and diet for feeders is crucial to prevent toxin contamination, accumulation, and illness. Always provide fresh, untreated produce, and regularly check for fungal growth, bacterial contamination, or pests in feeder colonies and food sources. Feeding practices may vary based on species, individual needs, and circumstances. Seek a second opinion when needed and stay open to adapting your approach.*
+  - **Keynote**: *the quality of care and diet for feeders is crucial to prevent toxin contamination, accumulation, and illness. Always provide fresh, untreated produce, and regularly check for fungal growth, bacterial contamination, or pests in feeder colonies and food sources. Feeding practices may vary based on species, individual needs, and circumstances. Seek a second opinion when needed and stay open to adapting your approach.*
 
 
 ### Watering
 
 - Arid species should generally be kept dry but may benefit from a light moisture gradient; moisture-dependent species need a gradient of moisture, with important consideration not to let the habitat dry out.
-  - **Key note**: *"gradient" generally refers to a top-to-bottom moisture level, drier on the surface and more moisture the deeper the individual goes.*
+  - **Keynote**: *"gradient" generally refers to a top-to-bottom moisture level, drier on the surface and more moisture the deeper the individual goes.*
 - Misting in moderation can be appreciated but is generally considered an inadequate form of hydration. Physical water dishes are almost always optimal, with the exception of some species, that do not break surface tension and subsequently become trapped in too-large of water droplets.
- - **Key note**: *"some species" generally refer to sizes comparative to spiderling of salticids, dwarf tarantulas, or other especially small species. (0.25"/0.6cm) In other cases, smaller water dishes can be crafted out of [ink caps](https://amzn.to/3ZqdLx9) and [legos](https://amzn.to/4gq7Deq).*
+ - **Keynote**: *"some species" generally refer to sizes comparative to spiderling of salticids, dwarf tarantulas, or other especially small species. (0.25"/0.6cm) In other cases, smaller water dishes can be crafted out of [ink caps](https://amzn.to/3ZqdLx9) and [legos](https://amzn.to/4gq7Deq).*
 
 ### Molting
 
 - Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger.
 - Before molting, the exoskeleton will darken. Remove uneaten food and ensure the enclosure remains humid.
-  - **Key note**: *internal hydration and reserves are the most important factors in molting health.*
+  - **Keynote**: *internal hydration and reserves are the most important factors in molting health.*
 
 <br/><br/>
 
@@ -64,7 +64,7 @@ Spiderling care generally covers the following areas:
 
 **Decor**: Fake plants, cork bark, and live plants are good options. Avoid sharp objects like jagged rocks.
  
-- **Key note**: *Plants may not be sustainable or optimal, so be sure to consider your individual's species-specific care. Additionally, toxins or intruders may be introduced, so careful consideration is needed.*
+- **Keynote**: *Plants may not be sustainable or optimal, so be sure to consider your individual's species-specific care. Additionally, toxins or intruders may be introduced, so careful consideration is needed.*
 
 
 **Substrate**: Choose a substrate that is preference or standard to your species specific care. Ingredients should never be treated, sharp, or jagged.
@@ -72,7 +72,7 @@ Spiderling care generally covers the following areas:
 
 **Feeding**: Feed adult tarantulas 1-2 times a week with prey that doesn’t exceed the size of their body (prosoma and opisthosoma). Suitable feeders include crickets, roaches, superworms, mealworms, and locusts, larvae and more. Gutload feeders with quality food, such as fresh vegetables. Feeders should be removed within a day or less.
  
-   - **Key note**: *feeder quality of care and diet are important areas of concern in regards to toxin contamination, accumulation, and illness. Always be sure to feed fresh untreated produce and avoid fungal, bacterial, and intruder status in feeder colonies and food-stuff. feeding practice can differ depending on individual, species, and circumstance. Remember to get a second opinion and be open to change.* 
+   - **Keynote**: *feeder quality of care and diet are important areas of concern in regards to toxin contamination, accumulation, and illness. Always be sure to feed fresh untreated produce and avoid fungal, bacterial, and intruder status in feeder colonies and food-stuff. feeding practice can differ depending on individual, species, and circumstance. Remember to get a second opinion and be open to change.* 
 
 
 **Water**: Provide a water dish for all tarantulas, including slings. Avoid cotton, sponges, or water gels, as these harbor bacteria. If the dish is too large, add some aquarium gravel to prevent drowning. Mist can sometimes be appreciated but humidity spiking can come with health risks.
@@ -95,7 +95,7 @@ There are two common methods:
 
 - **Spermathecae (molt sexing)**: Inspecting the molt for spermathecae, a small flap indicating a female. Males exhibit differences after their ultimate molt, such as leggier bodies and sometimes color changes. Males also develop emboli on their pedipalps and, in many species, tibial hooks. 
 
- - **Key note**: *more expansive literature can be found [here](https://www.reddit.com/r/tarantulas/wiki/tarantulas/sexing/)*
+ - **Keynote**: *more expansive literature can be found [here](https://www.reddit.com/r/tarantulas/wiki/tarantulas/sexing/)*
 
 <br/><br/>
 
@@ -208,14 +208,14 @@ There are two common methods:
 
 - Physical intervention: intervention and management may sometimes be unavoidable- although rare, it can be important to have the necessary awareness and mechanical ability to handle a tarantula.
   
- - **Key note**: *when addressing a challenge in your keeping, it is usually best practice to use the [path of least intrusion.](https://www.reddit.com/r/tarantulas/wiki/tarantulas/protocol/) Hands-on intervention is generally considered a last resort.*
+ - **Keynote**: *when addressing a challenge in your keeping, it is usually best practice to use the [path of least intrusion.](https://www.reddit.com/r/tarantulas/wiki/tarantulas/protocol/) Hands-on intervention is generally considered a last resort.*
 
 
 - When physical intervention is unavoidable, safety measures should be considered: keeping low to the ground and selection of an environment with minimal disturbances.
 
 - Contact with an individual and the outside environment offers a host of risks, such as stressful stimuli or toxin contamination. 
 
- - **Key note**: *remember to always wash your hands before and after interactions. Individual and specie specific criteria may encourage PPE protection to be used, such as gloves, long sleeves, or eye protection.*
+ - **Keynote**: *remember to always wash your hands before and after interactions. Individual and specie specific criteria may encourage PPE protection to be used, such as gloves, long sleeves, or eye protection.*
 
 <br/><br/>
 

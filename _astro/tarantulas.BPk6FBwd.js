@@ -1,4 +1,4 @@
-import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Callout.1cC8OTH3.js";import{F as a}from"./utils.EQznNFnE.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.Dp9hlVER.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
+import{$ as l,c as e}from"./_astro_assets.BaJa97VJ.js";import{$ as o}from"./Callout.Blbt8Buj.js";import{F as a}from"./utils.D7cdEPQd.js";import"./astro/assets-service.CVSf40k3.js";import"./index.CVpbhN_F.js";import"./button.B4YmSd6T.js";import"./createLucideIcon.p0hNPnRc.js";const s={title:"Tarantulas"};function y(){return[{depth:2,slug:"preface",text:"Preface"},{depth:2,slug:"tarantulas-overview",text:"Tarantulas Overview"},{depth:2,slug:"basic-sling-care",text:"Basic Sling Care"},{depth:3,slug:"feeding",text:"Feeding"},{depth:3,slug:"watering",text:"Watering"},{depth:3,slug:"molting",text:"Molting"},{depth:2,slug:"basic-tarantula-care",text:"Basic Tarantula Care"},{depth:3,slug:"enclosure",text:"Enclosure"},{depth:2,slug:"sexing",text:"Sexing"},{depth:2,slug:"disorders",text:"Disorders"},{depth:3,slug:"toxins",text:"Toxins"},{depth:3,slug:"parasites",text:"Parasites"},{depth:3,slug:"conditions",text:"Conditions"},{depth:2,slug:"-handling---overview",text:" Handling - Overview"},{depth:3,slug:"why-is-handling-not-recommended",text:"Why is handling not recommended"},{depth:3,slug:"why-a-keeper-might-handle-and-how-to",text:"Why a keeper might handle and how-to"},{depth:2,slug:"reference-materials",text:"Reference Materials"},{depth:3,slug:"literature",text:"Literature"},{depth:3,slug:"links",text:"Links"}]}const b=!0;function t(i){const n={a:"a",br:"br",em:"em",h2:"h2",h3:"h3",hr:"hr",li:"li",p:"p",strong:"strong",ul:"ul",...i.components};return e(a,{children:[e("br",{}),`
 `,e("br",{}),`
 `,`
 `,e(o,{variant:"info",children:[e(n.h2,{id:"preface",children:"Preface"}),e(n.p,{children:"This wiki article aims to address keeper challenges and offer a clear overview of tarantulas and their captive care using evidence-based information translated simplistically. We hope that keepers can use this text to help educate themselves and others- equipped with a concise, modern, and well-thought-out resource compiling decades of literary information formatted for keepers of all skill levels."}),e(n.ul,{children:[`
@@ -23,7 +23,7 @@ import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Call
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[`Feed slings every 3-7 days with maimed or pre-killed prey smaller than the tarantula’s leg span. Prey item’s limbs or segments can be used if small prey isn’t available.
 `,e(n.ul,{children:[`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"the quality of care and diet for feeders is crucial to prevent toxin contamination, accumulation, and illness. Always provide fresh, untreated produce, and regularly check for fungal growth, bacterial contamination, or pests in feeder colonies and food sources. Feeding practices may vary based on species, individual needs, and circumstances. Seek a second opinion when needed and stay open to adapting your approach."})]}),`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"the quality of care and diet for feeders is crucial to prevent toxin contamination, accumulation, and illness. Always provide fresh, untreated produce, and regularly check for fungal growth, bacterial contamination, or pests in feeder colonies and food sources. Feeding practices may vary based on species, individual needs, and circumstances. Seek a second opinion when needed and stay open to adapting your approach."})]}),`
 `]}),`
 `]}),`
 `]}),`
@@ -31,18 +31,18 @@ import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Call
 `,e(n.ul,{children:[`
 `,e(n.li,{children:[`Arid species should generally be kept dry but may benefit from a light moisture gradient; moisture-dependent species need a gradient of moisture, with important consideration not to let the habitat dry out.
 `,e(n.ul,{children:[`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"“gradient” generally refers to a top-to-bottom moisture level, drier on the surface and more moisture the deeper the individual goes."})]}),`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"“gradient” generally refers to a top-to-bottom moisture level, drier on the surface and more moisture the deeper the individual goes."})]}),`
 `]}),`
 `]}),`
 `,e(n.li,{children:"Misting in moderation can be appreciated but is generally considered an inadequate form of hydration. Physical water dishes are almost always optimal, with the exception of some species, that do not break surface tension and subsequently become trapped in too-large of water droplets."}),`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:["“some species” generally refer to sizes comparative to spiderling of salticids, dwarf tarantulas, or other especially small species. (0.25”/0.6cm) In other cases, smaller water dishes can be crafted out of ",e(n.a,{href:"https://amzn.to/3ZqdLx9",rel:"nofollow",target:"_blank",children:"ink caps"})," and ",e(n.a,{href:"https://amzn.to/4gq7Deq",rel:"nofollow",target:"_blank",children:"legos"}),"."]})]}),`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:["“some species” generally refer to sizes comparative to spiderling of salticids, dwarf tarantulas, or other especially small species. (0.25”/0.6cm) In other cases, smaller water dishes can be crafted out of ",e(n.a,{href:"https://amzn.to/3ZqdLx9",rel:"nofollow",target:"_blank",children:"ink caps"})," and ",e(n.a,{href:"https://amzn.to/4gq7Deq",rel:"nofollow",target:"_blank",children:"legos"}),"."]})]}),`
 `]}),`
 `,e(n.h3,{id:"molting",children:"Molting"}),`
 `,e(n.ul,{children:[`
 `,e(n.li,{children:"Feed slings 1 week after molting, extending to 10-14 days once they are 2 inches or larger."}),`
 `,e(n.li,{children:[`Before molting, the exoskeleton will darken. Remove uneaten food and ensure the enclosure remains humid.
 `,e(n.ul,{children:[`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"internal hydration and reserves are the most important factors in molting health."})]}),`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"internal hydration and reserves are the most important factors in molting health."})]}),`
 `]}),`
 `]}),`
 `]}),`
@@ -56,12 +56,12 @@ import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Call
 `,e(n.p,{children:[e(n.strong,{children:"Fossorial"}),": Provide deep substrate (minimum 1.5x the leg span) for burrowing species. Taller, narrower tanks allow better viewing."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Decor"}),": Fake plants, cork bark, and live plants are good options. Avoid sharp objects like jagged rocks."]}),`
 `,e(n.ul,{children:[`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"Plants may not be sustainable or optimal, so be sure to consider your individual’s species-specific care. Additionally, toxins or intruders may be introduced, so careful consideration is needed."})]}),`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"Plants may not be sustainable or optimal, so be sure to consider your individual’s species-specific care. Additionally, toxins or intruders may be introduced, so careful consideration is needed."})]}),`
 `]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Substrate"}),": Choose a substrate that is preference or standard to your species specific care. Ingredients should never be treated, sharp, or jagged."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Feeding"}),": Feed adult tarantulas 1-2 times a week with prey that doesn’t exceed the size of their body (prosoma and opisthosoma). Suitable feeders include crickets, roaches, superworms, mealworms, and locusts, larvae and more. Gutload feeders with quality food, such as fresh vegetables. Feeders should be removed within a day or less."]}),`
 `,e(n.ul,{children:[`
-`,e(n.li,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"feeder quality of care and diet are important areas of concern in regards to toxin contamination, accumulation, and illness. Always be sure to feed fresh untreated produce and avoid fungal, bacterial, and intruder status in feeder colonies and food-stuff. feeding practice can differ depending on individual, species, and circumstance. Remember to get a second opinion and be open to change."})]}),`
+`,e(n.li,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"feeder quality of care and diet are important areas of concern in regards to toxin contamination, accumulation, and illness. Always be sure to feed fresh untreated produce and avoid fungal, bacterial, and intruder status in feeder colonies and food-stuff. feeding practice can differ depending on individual, species, and circumstance. Remember to get a second opinion and be open to change."})]}),`
 `]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Water"}),": Provide a water dish for all tarantulas, including slings. Avoid cotton, sponges, or water gels, as these harbor bacteria. If the dish is too large, add some aquarium gravel to prevent drowning. Mist can sometimes be appreciated but humidity spiking can come with health risks."]}),`
 `,e(n.p,{children:[e(n.strong,{children:"Heating"}),": If your home stays around 70°F, no additional heating is required. For temperatures below 65°F, use a low-wattage heat source, such as a ceramic heat emitter or heat mat. Avoid heat rocks, basking bulbs, UV bulbs, or placing heat mats under the tank."]}),`
@@ -79,7 +79,7 @@ import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Call
 `,e(n.p,{children:[e(n.strong,{children:"Spermathecae (molt sexing)"}),": Inspecting the molt for spermathecae, a small flap indicating a female. Males exhibit differences after their ultimate molt, such as leggier bodies and sometimes color changes. Males also develop emboli on their pedipalps and, in many species, tibial hooks."]}),`
 `]}),`
 `,e(n.li,{children:[`
-`,e(n.p,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:["more expansive literature can be found ",e(n.a,{href:"https://www.reddit.com/r/tarantulas/wiki/tarantulas/sexing/",rel:"nofollow",target:"_blank",children:"here"})]})]}),`
+`,e(n.p,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:["more expansive literature can be found ",e(n.a,{href:"https://www.reddit.com/r/tarantulas/wiki/tarantulas/sexing/",rel:"nofollow",target:"_blank",children:"here"})]})]}),`
 `]}),`
 `]}),`
 `,e("br",{}),`
@@ -236,7 +236,7 @@ import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Call
 `,e(n.p,{children:"Physical intervention: intervention and management may sometimes be unavoidable- although rare, it can be important to have the necessary awareness and mechanical ability to handle a tarantula."}),`
 `]}),`
 `,e(n.li,{children:[`
-`,e(n.p,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:["when addressing a challenge in your keeping, it is usually best practice to use the ",e(n.a,{href:"https://www.reddit.com/r/tarantulas/wiki/tarantulas/protocol/",rel:"nofollow",target:"_blank",children:"path of least intrusion."})," Hands-on intervention is generally considered a last resort."]})]}),`
+`,e(n.p,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:["when addressing a challenge in your keeping, it is usually best practice to use the ",e(n.a,{href:"https://www.reddit.com/r/tarantulas/wiki/tarantulas/protocol/",rel:"nofollow",target:"_blank",children:"path of least intrusion."})," Hands-on intervention is generally considered a last resort."]})]}),`
 `]}),`
 `,e(n.li,{children:[`
 `,e(n.p,{children:"When physical intervention is unavoidable, safety measures should be considered: keeping low to the ground and selection of an environment with minimal disturbances."}),`
@@ -245,7 +245,7 @@ import{$ as l,c as e}from"./_astro_assets.CGhWWMSG.js";import{$ as o}from"./Call
 `,e(n.p,{children:"Contact with an individual and the outside environment offers a host of risks, such as stressful stimuli or toxin contamination."}),`
 `]}),`
 `,e(n.li,{children:[`
-`,e(n.p,{children:[e(n.strong,{children:"Key note"}),": ",e(n.em,{children:"remember to always wash your hands before and after interactions. Individual and specie specific criteria may encourage PPE protection to be used, such as gloves, long sleeves, or eye protection."})]}),`
+`,e(n.p,{children:[e(n.strong,{children:"Keynote"}),": ",e(n.em,{children:"remember to always wash your hands before and after interactions. Individual and specie specific criteria may encourage PPE protection to be used, such as gloves, long sleeves, or eye protection."})]}),`
 `]}),`
 `]}),`
 `,e("br",{}),`
