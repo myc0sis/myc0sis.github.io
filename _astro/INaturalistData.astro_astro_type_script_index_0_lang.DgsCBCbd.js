@@ -1,5 +1,0 @@
-const e=document.getElementById("inaturalist-data"),s=document.getElementById("search-input"),d=document.getElementById("search-button");if(e&&s&&d){const l=e.dataset.perPage||"5",o=e.dataset.taxonId;async function r(n=""){try{let t=`https://api.inaturalist.org/v1/observations?per_page=${l}`;o&&(t+=`&taxon_id=${o}`),n&&(t+=`&q=${encodeURIComponent(n)}`);const i=await(await fetch(t)).json();if(e.innerHTML="",i.results.length===0){e.innerHTML="No results found.";return}i.results.forEach(a=>{const c=document.createElement("div");c.innerHTML=`
-            <h3>${a.species_guess}</h3>
-            <p>Observed on: ${new Date(a.observed_on).toLocaleDateString()}</p>
-            <img src="${a.photos[0]?.url||""}" alt="${a.species_guess}" width="200">
-          `,e.appendChild(c)})}catch(t){console.error("Error fetching iNaturalist data:",t),e.innerHTML="Error loading iNaturalist data."}}d.addEventListener("click",()=>{r(s.value)}),s.addEventListener("keypress",n=>{n.key==="Enter"&&r(s.value)}),r()}else console.error("Could not find necessary elements for iNaturalist data");
