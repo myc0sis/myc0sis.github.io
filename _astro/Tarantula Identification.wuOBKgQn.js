@@ -22,4 +22,7 @@ Both types look for signs of one sex: ventral sexing looks for signs of a male, 
 ### [Tarantula Dan's how to guide for sexing molts](https://www.youtube.com/watch?v=Pw8e4M0tBng)
 
 *Thank you to @spidertacular on Discord for this guide!*
+
+<img src="https://i.imgur.com/pQI0Q9x.png" alt="Ventral Diagram" />
+
 `,n={title:"Tarantula Sex Identification",author:"deadcodeXO",draft:!1,tags:[],hide_breadcrumbs:!1,hide_toc:!1,hide_sidenav:!1,max_width:!1},i={type:"content",filePath:"/home/runner/work/myc0sis.github.io/myc0sis.github.io/src/content/docs/misc/Tarantula Identification.mdx",rawData:void 0};export{i as _internal,t as body,a as collection,n as data,e as id,s as slug};
