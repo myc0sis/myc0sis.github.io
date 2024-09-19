@@ -6,7 +6,7 @@ const e="Arachnids/jumpers.mdx",n="docs",i="arachnids/jumpers",r=`
 import Callout from '@/components/Callout.astro';
 import { Cat } from 'lucide-react';
 
-<Callout variant="info">
+<Callout variant="success">
 ## Preface
 
 This article is designed to provide jumping spider keepers with a straightforward yet detailed care guide. Using scientifically supported information, this guide aims to assist keepers of all experience levels in offering the best care for their jumping spiders, addressing common challenges along the way.
