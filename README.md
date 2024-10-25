@@ -15,3 +15,29 @@
 - Scorpions started.
 - Amblypigi Overview TBD...
 - Protocols Overview TBD...
+
+## Contributing
+
+Contributions are welcome!
+
+1. **Fork the Repository**.
+2. **Create a New Branch**:
+
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+
+3. **Commit Your Changes**:
+
+   ```bash
+   git commit -am 'add some feature'
+   ```
+
+4. **Push to the Branch**:
+
+   ```bash
+   git push origin feature/your-feature
+   ```
+
+5. **Open a Pull Request**.
+
